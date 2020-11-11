@@ -1,0 +1,14 @@
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csprojAssemblyReference.cache
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAnaSayfa.resources
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriEkle.resources
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.Properties.Resources.resources
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.GenerateResource.cache
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.pdb
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriListele.resources
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçKayıt.resources
+C:\Users\SanalKrlk\Desktop\NesneProje\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçListele.resources
